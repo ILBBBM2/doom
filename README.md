@@ -68,7 +68,7 @@ the project uses:
 
 - arrow keys: move
 - S: shoot
-- space: open doors/interact
+- W: open doors/interact
 - F11: toggle fullscreen
 
 ## **known issues:**
